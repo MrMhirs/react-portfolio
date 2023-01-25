@@ -36,10 +36,7 @@ export default function Home() {
                 />
               </li>
               <li>
-                <a
-                  className="bg-gradient-to-r from-green-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="#"
-                >
+              <a>
                   Resume
                 </a>
               </li>
@@ -72,7 +69,7 @@ export default function Home() {
               Since the beginning of my journey as a developer i have acquired
               <span className="text-teal-500"> the passion </span>
               for <span className="text-teal-500">self-development </span>
-              in order to acquired{" "}
+              in order to gain{" "}
               <span className="text-teal-500"> the knowledge </span> to have a{" "}
               <span className="text-teal-500"> dedication</span> on future
               opportunities.
@@ -168,42 +165,6 @@ export default function Home() {
                 src={web2}
               />
             </div>
-            {/* <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web3}
-              />
-            </div>
-            <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web4}
-              />
-            </div>
-            <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web5}
-              />
-            </div>
-            <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-                layout="responsive"
-                src={web6}
-              />
-            </div> */}
           </div>
         </section>
       </main>
